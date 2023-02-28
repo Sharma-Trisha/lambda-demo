@@ -1,0 +1,5 @@
+micronaut.application.name = 'lambdaDemo'
+
+[datasources.default]
+driver-class-name = 'com.mysql.cj.jdbc.Driver'
+db-type = 'mysql'
